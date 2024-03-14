@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordCracker", "PasswordCracker\PasswordCracker.csproj", "{E2EB668F-D16D-49C5-83E7-DE86914B728B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkScanner", "NetworkScanner\NetworkScanner.csproj", "{68BB7DCC-3FBB-4CD9-85EF-C80F2D220808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2EB668F-D16D-49C5-83E7-DE86914B728B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2EB668F-D16D-49C5-83E7-DE86914B728B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2EB668F-D16D-49C5-83E7-DE86914B728B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2EB668F-D16D-49C5-83E7-DE86914B728B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68BB7DCC-3FBB-4CD9-85EF-C80F2D220808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68BB7DCC-3FBB-4CD9-85EF-C80F2D220808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68BB7DCC-3FBB-4CD9-85EF-C80F2D220808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68BB7DCC-3FBB-4CD9-85EF-C80F2D220808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8FEF288-419F-4256-877A-9AFA530D9B6D}
+	EndGlobalSection
+EndGlobal

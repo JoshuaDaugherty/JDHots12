@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\JDHots12\JDHots\NetworkScanner\bin\Debug\NetworkScanner.exe.config
+C:\Users\janic\Downloads\JDHots12\JDHots\NetworkScanner\bin\Debug\NetworkScanner.exe
+C:\Users\janic\Downloads\JDHots12\JDHots\NetworkScanner\bin\Debug\NetworkScanner.pdb
+C:\Users\janic\Downloads\JDHots12\JDHots\NetworkScanner\obj\Debug\NetworkScanner.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\JDHots12\JDHots\NetworkScanner\obj\Debug\NetworkScanner.frmIPAddress.resources
+C:\Users\janic\Downloads\JDHots12\JDHots\NetworkScanner\obj\Debug\NetworkScanner.Properties.Resources.resources
+C:\Users\janic\Downloads\JDHots12\JDHots\NetworkScanner\obj\Debug\NetworkScanner.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\JDHots12\JDHots\NetworkScanner\obj\Debug\NetworkScanner.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\JDHots12\JDHots\NetworkScanner\obj\Debug\NetworkScanner.exe
+C:\Users\janic\Downloads\JDHots12\JDHots\NetworkScanner\obj\Debug\NetworkScanner.pdb
